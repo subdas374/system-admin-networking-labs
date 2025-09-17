@@ -39,3 +39,42 @@ These labs are helpful for:
 ---
 
 ## 📂 Repository Structure
+
+system-admin-networking-labs/
+│
+├── Router-Config-2PCs/
+│   ├── router-config-2pc.pkt
+│   ├── README.md
+│   └── screenshots/
+│       └── ping-success.png
+│
+├── VLAN-Lab/
+│   ├── vlan-lab.pkt
+│   ├── README.md
+│   └── screenshots/
+│
+├── DHCP-Lab/
+│   ├── dhcp-lab.pkt
+│   ├── README.md
+│   └── screenshots/
+│
+├── Static-Routing-Lab/
+│   ├── static-routing-lab.pkt
+│   ├── README.md
+│   └── screenshots/
+│
+├── DNS-WebServer-Lab/
+│   ├── dns-webserver-lab.pkt
+│   ├── README.md
+│   └── screenshots/
+│
+├── ACL-Lab/
+│   ├── acl-lab.pkt
+│   ├── README.md
+│   └── screenshots/
+│
+└── Small-Office-Network/
+    ├── small-office.pkt
+    ├── README.md
+    └── screenshots/
+
