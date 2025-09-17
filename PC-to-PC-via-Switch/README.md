@@ -3,6 +3,8 @@
 ## 🖥️ Topology
 ![Screenshot](https://github.com/subdas374/system-admin-networking-labs/blob/main/PC-to-PC-via-Switch/screenshots/Screenshot.png)
 
+PC1 ---- Switch ---- PC2
+
 
 
 
