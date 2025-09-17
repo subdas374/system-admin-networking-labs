@@ -1,10 +1,9 @@
 # Practical 1: Connect 2 PCs with a Switch
 
 ## 🖥️ Topology
-![Screenshot]
-(https://github.com/subdas374/system-admin-networking-labs/blob/main/PC-to-PC-via-Switch/screenshots/Screenshot.png)
+![Screenshot](https://github.com/subdas374/system-admin-networking-labs/blob/main/PC-to-PC-via-Switch/screenshots/Screenshot.png)
 
-<img src="PC-to-PC-via-Switch/screenshots/Screenshot.png"">
+
 
 
 ## ⚙️ IP Configuration
