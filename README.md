@@ -5,9 +5,9 @@ This repo is designed to help beginners and aspiring **System Administrators** g
 
 ---
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/system-admin-networking-labs)
-![GitHub stars](https://img.shields.io/github/stars/your-username/system-admin-networking-labs?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/system-admin-networking-labs?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/subdas374/system-admin-networking-labs)
+![GitHub stars](https://img.shields.io/github/stars/subdas374/system-admin-networking-labs?style=social)
+![GitHub forks](https://img.shields.io/github/forks/subdas374/system-admin-networking-labs?style=social)
 
 ---
 
