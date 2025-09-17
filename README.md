@@ -1,2 +1,41 @@
-# system-admin-networking-labs
-Hands-on networking and system administration labs using Cisco Packet Tracer and virtual machines. Includes router, switch, VLAN, DHCP, DNS, ACL, and server configurations for beginners to advanced learners.
+# 🖥️ System Admin & Networking Labs
+
+A collection of practical **networking and system administration labs** built using **Cisco Packet Tracer** and **Virtual Machines (Linux/Windows)**.  
+This repo is designed to help beginners and aspiring **System Administrators** gain real-world hands-on experience.  
+
+---
+
+![GitHub repo size](https://img.shields.io/github/repo-size/your-username/system-admin-networking-labs)
+![GitHub stars](https://img.shields.io/github/stars/your-username/system-admin-networking-labs?style=social)
+![GitHub forks](https://img.shields.io/github/forks/your-username/system-admin-networking-labs?style=social)
+
+---
+
+## 💡 About
+This repository is part of my journey to become a **System Administrator**.  
+It contains hands-on labs that combine **networking (Cisco Packet Tracer)** and **system administration (Linux/Windows VMs)**.  
+
+These labs are helpful for:
+- Students preparing for IT jobs  
+- Beginners learning networking fundamentals  
+- System administrator interview preparation  
+- Anyone who wants real-world practice  
+
+---
+
+## 📖 Table of Contents
+- [About](#-about)  
+- [Repository Structure](#-repository-structure)  
+- [Labs Covered](#-labs-covered)  
+- [Lab Example](#-lab-example-router-config-2-pcs)  
+- [Screenshots](#-screenshots)  
+- [Requirements](#-requirements)  
+- [Roadmap](#-roadmap)  
+- [Goal of this Repo](#-goal-of-this-repo)  
+- [Learning Resources](#-learning-resources)  
+- [Contribution](#-contribution)  
+- [License](#-license)  
+
+---
+
+## 📂 Repository Structure
